@@ -1,7 +1,7 @@
 # Numerical Algorithms
 
-This repository contains efficient C implementations of various numerical algorithms for solving mathematical problems. The focus is on performance and accuracy, making use of optimized techniques for numerical computation.
+This repository contains efficient C and Python implementations of various numerical algorithms for solving mathematical problems. 
 
 ## Implemented Algorithms
 
-✅ Root-Finding Methods (Bisection)
+✅ Root-Finding Methods (Bisection, Newton method)

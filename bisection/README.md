@@ -27,8 +27,6 @@ The implementation can be found in `bisection.c`. The current version solves the
 
 #### Using Make
 A Makefile is provided for easy compilation:
-
-```bash
 # Compile the program
 make
 
