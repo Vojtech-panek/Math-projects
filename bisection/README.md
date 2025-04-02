@@ -32,16 +32,11 @@ make
 make run
 
 # Clean built files
-make clean
-```
 
 #### Manual Compilation
 If you prefer to compile manually:
-
-```bash
 gcc -Wall -o bisection bisection.c -lm
 ./bisection
-```
 ### Runing Python
  Python bisection.py
 
