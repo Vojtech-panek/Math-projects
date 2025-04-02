@@ -19,7 +19,7 @@ The implementation can be found in `newton.py`. User inputs solved equation and 
 
 ### Building and Running
 
-#### Using Make
+####  C
 A Makefile is provided for easy compilation:
 # Compile the program
 make
@@ -27,16 +27,7 @@ make
 # Run the program
 make run
 
-# Clean built files
-make clean
 
-#### Manual Compilation
-If you prefer to compile manually:
-
-```bash
-gcc -Wall -o newton newton.c -lm
-./newton
-```
-### Running Python
+####  Python
 python newton.py
 
