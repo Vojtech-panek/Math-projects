@@ -17,9 +17,7 @@ The implementation can be found in `newton.c`. The current version solves the eq
 ### Implementation Python
 The implementation can be found in `newton.py`. User inputs solved equation and its derivative
 
-### Building and Running
-
-####  C
+###  C
 A Makefile is provided for easy compilation:
 # Compile the program
 make
@@ -27,7 +25,6 @@ make
 # Run the program
 make run
 
-
-####  Python
+###  Python
 python newton.py
 
