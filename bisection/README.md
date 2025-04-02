@@ -23,13 +23,13 @@ The implementation can be found in `bisection.py`. User inputs solved equation
 
 ### Building and Running
 
-### C
+## C
 A Makefile is provided for easy compilation:
-# Compile the program
+### Compile the program
 make
 
-# Run the program
+### Run the program
 make run
-###  Python
+##  Python
 Python bisection.py
 
