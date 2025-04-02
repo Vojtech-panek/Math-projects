@@ -16,12 +16,10 @@ The algorithm works as follows:
    - If f(c) and f(a) have opposite signs, the root is in [a, c]
 5. Repeat steps 2-4 until convergence or maximum iterations
 
-### Implementation
+### Implementation C
 The implementation can be found in `bisection.c`. The current version solves the equation x³ - 2 = 0, finding the cube root of 2.
-
-### Complexity
-- Time Complexity: O(log((b-a)/ε)), where ε is the desired precision
-- Space Complexity: O(1)
+### Implementation Python
+The implementation can be found in `bisection.py`. User inputs solved equation
 
 ### Building and Running
 
@@ -44,9 +42,6 @@ If you prefer to compile manually:
 gcc -Wall -o bisection bisection.c -lm
 ./bisection
 ```
+### Runing Python
+ Python bisection.py
 
-### Customization
-You can modify the function `func()` in the source code to solve different equations.
-
-## Other Algorithms
-More algorithms will be added in the future.
