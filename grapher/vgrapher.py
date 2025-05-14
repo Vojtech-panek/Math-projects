@@ -1,6 +1,3 @@
-# Author Vojtěch Pánek
-# Purpuse Graphing 3D and 2D vecotr function 
-# Example Input r(t)=<2t,t,ln(t)>, user inputs farts of function 2t,t,ln(t)
 # Author: Vojtěch Pánek
 # Purpose: Graphing 3D and 2D vector functions
 # Example input: r(t) = <2*t, t, ln(t)>  → user inputs 2*t, t, np.log(t)
