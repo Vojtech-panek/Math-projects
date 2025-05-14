@@ -6,3 +6,4 @@ This repository contains  C and Python implementations small math experiments i 
 
 ✅ Root-Finding Methods (Bisection, Newton method)
 ✅ Vector function grapher
+
