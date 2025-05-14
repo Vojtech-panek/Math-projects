@@ -1,7 +1,8 @@
-# Numerical Algorithms
+# Math projects
 
-This repository contains efficient C and Python implementations of various numerical algorithms for solving mathematical problems. 
+This repository contains  C and Python implementations small math experiments i enjpyed doing. 
 
-## Implemented Algorithms
+## Implemented Problems
 
 ✅ Root-Finding Methods (Bisection, Newton method)
+✅ Vector function grapher
